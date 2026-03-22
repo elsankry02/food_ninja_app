@@ -28,11 +28,12 @@ This application is a result of integrating the best elements from two top-tier 
 
 ## 🛠️ Tech Stack & Tools
 
-* **Frontend:** **Flutter & Dart** for cross-platform excellence.
-* **Architecture:** **Clean Architecture** (Separation of concerns for better scalability).
-* **State Management:** **Cubit / Bloc** for managing complex UI states.
-* **Networking:** **Dio** for fast and reliable API communication.
-* **Localization:** Supports multi-language setups for global reach.
+* **Frontend:** **Flutter & Dart** for high-performance cross-platform development.
+* **State Management:** **Riverpod** – Utilizing a reactive and testable state management solution for a robust user experience.
+* **Architecture:** **Clean Architecture** – Ensuring a scalable, maintainable, and decoupled codebase.
+* **Networking:** **Dio** – Fast and reliable HTTP client for seamless API communication.
+* **Dependency Injection:** Powered by **Riverpod's** built-in provider system.
+* **Localization:** Full multi-language support for a global user base.
 
 ---
 
