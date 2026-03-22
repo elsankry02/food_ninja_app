@@ -48,4 +48,5 @@ Get the app running on your machine in a few minutes:
 ### Steps
 1. **Clone the repository:**
    ```bash
+   git clone [https://github.com/elsankry02/food_ninja_app.git](https://github.com/elsankry02/food_ninja_app.git)
 git clone [https://github.com/elsankry02/food_ninja_app.git](https://github.com/elsankry02/food_ninja_app.git)
