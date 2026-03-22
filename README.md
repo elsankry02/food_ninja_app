@@ -2,114 +2,49 @@
 
 ![Image](https://github.com/user-attachments/assets/5468d74b-b86a-4b47-8d2c-7351f38181d2)
 
-## Food Ninja App
+# 🥷 Food Ninja App (تطبيق فود نينجا)
 
-Food Ninja is a modern, high-performance Flutter application designed to deliver a seamless food-ordering experience. From browsing meals to managing the cart and placing orders, the app ensures a smooth, fast, and enjoyable user journey with a stylish and responsive interface.
+A high-end food delivery and grocery application developed with **Flutter**. This project is a masterpiece of UI implementation, merging two professional Figma designs to create a unique, seamless, and hybrid user experience.
 
-## 🚀 Tech Stack
+---
 
-**Flutter & Dart** – Cross-platform development for Android & iOS using a single codebase.
+## 🎨 Hybrid UI/UX Design
 
-**MVVM Architecture** – Clean code structure for easy maintenance and scalability.
+This application is a result of integrating the best elements from two top-tier designs:
+* **Primary Design:** [🔗 Food Ninja Community](https://www.figma.com/design/cC9Xz8lnSqgzmXFzb7Ke1g/Food-Ninja--Community-) - Inspired the core flow and delivery experience.
+* **Secondary Design:** [🔗 Online Groceries UI](https://www.figma.com/design/HJWCSkp8uOhE3QvuDeWzHc/Online-Groceries-App-UI--Community-) - Used for optimizing product displays and grocery sections.
 
-**Riverpod** – Robust state management with stability and testability.
+---
 
-**Dio** – Efficient HTTP client for API requests.
+## 🚀 Key Features
 
-**AutoRoute** – Type-safe and scalable navigation system.
+* **Hybrid Marketplace:** Browse both restaurant meals and grocery items in one unified app.
+* **Advanced UI Components:** Custom-built widgets to match the complex layouts of both Figma files.
+* **Smart Search & Filters:** Easily find your favorite meals or daily essentials.
+* **Smooth Navigation:** Intuitive user flow from onboarding to order completion.
+* **Interactive Animations:** High-quality transitions for a premium "Ninja" feel.
 
-**Localization** – Multi-language support (Arabic & English).
+---
 
-**Auth API Integration** – Backend integration for Login, Register, Logout, and Complete Profile flows.
+## 🛠️ Tech Stack & Tools
 
-**Dynamic Theme (Light & Dark Mode)** – Instant theme switching based on user preference.
+* **Frontend:** **Flutter & Dart** for cross-platform excellence.
+* **Architecture:** **Clean Architecture** (Separation of concerns for better scalability).
+* **State Management:** **Cubit / Bloc** for managing complex UI states.
+* **Networking:** **Dio** for fast and reliable API communication.
+* **Localization:** Supports multi-language setups for global reach.
 
-## Key Features ✨
-# Authentication 🔐
+---
 
-User registration & login.
+## 📥 Installation & Setup
 
-Forgot password.
+Get the app running on your machine in a few minutes:
 
-Complete profile after registration.
+### Prerequisites
+* Flutter SDK (Latest)
+* VS Code or Android Studio
 
-Secure logout.
-
-# Food Browsing 🍽️
-
-Explore food categories.
-
-View detailed product pages.
-
-Smooth favorite/unfavorite system.
-
-# Cart & Orders 🛒
-
-Add items to cart.
-
-Increase/decrease quantities.
-
-Auto price calculation.
-
-Checkout flow.
-
-# Favorites ❤️
-
-Add/remove favorite meals.
-
-Organized favorites list.
-
-# Search & Filtering 🔍
-
-Search by name.
-
-Filter by category, rating, or price.
-
-# User Profile 👤
-
-Update personal info.
-
-Change profile picture.
-
-Manage account details.
-
-# UI/UX 🎨
-
-Smooth modern design.
-
-Light & Dark Mode support.
-
-Clean animations and transitions.
-
-# Why Food Ninja Stands Out 💡
-
-Clean MVVM architecture with Riverpod.
-
-Fast performance and smooth UX.
-
-Organized navigation using AutoRoute.
-
-Strong authentication integration via Dio.
-
-Multi-language & multi-theme user experience.
-
-# Future Enhancements 🔮
-
-Online payment integration (Paymob / Stripe).
-
-Real-time order tracking.
-
-Push notifications for offers & order updates.
-
-Multi-restaurant (multi-vendor) structure.
-
-Web & Desktop support.
-
-AI-based personalized recommendations.
-
-Advanced security & 2FA.
-<<<<<<< HEAD
-
-=======
-final baseUrl = "https://invesier.com/api/v1";
->>>>>>> 25ff59dfd3979fcea52ae48e7ce61e6e2287fd56
+### Steps
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/elsankry02/food_ninja_app.git](https://github.com/elsankry02/food_ninja_app.git)
