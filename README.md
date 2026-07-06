@@ -14,8 +14,8 @@ A high-end food delivery and grocery application developed with **Flutter**. Thi
 ## 🎨 Hybrid UI/UX Design
 
 This application is a result of integrating the best elements from two top-tier designs:
-* **Primary Design:** [🔗 Food Ninja Community](https://www.figma.com/design/cC9Xz8lnSqgzmXFzb7Ke1g/Food-Ninja--Community-) - Inspired the core flow and delivery experience.
-* **Secondary Design:** [🔗 Online Groceries UI](https://www.figma.com/design/HJWCSkp8uOhE3QvuDeWzHc/Online-Groceries-App-UI--Community-) - Used for optimizing product displays and grocery sections.
+* **Primary Design:** [🔗 Food Ninja Community](https://www.figma.com/community/file/1083864480125605719) - Inspired the core flow and delivery experience.
+* **Secondary Design:** [🔗 Online Groceries UI](https://www.figma.com/community/file/882645007956337261) - Used for optimizing product displays and grocery sections.
 
 ---
 
